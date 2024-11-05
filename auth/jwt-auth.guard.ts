@@ -1,4 +1,4 @@
-import { Injectable, ExecutionContext } from 'services/node_modules/@nestjs/common';
+import { Injectable, ExecutionContext } from '@nestjs/common';
 import { AuthGuard } from '@nestjs/passport';
 
 @Injectable()
